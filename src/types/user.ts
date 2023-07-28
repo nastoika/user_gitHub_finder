@@ -1,6 +1,5 @@
 export type GithubUser = {
   login: string;
-  id: number;
   avatar_url: string;
   name: string;
   company: string;
@@ -21,7 +20,6 @@ export type GithubError = {
 
 export type LocalGithubUser = {
   login: string;
-  id: number;
   avatar: string;
   name: string;
   company: string;
