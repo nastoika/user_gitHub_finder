@@ -1,4 +1,4 @@
-import { GithubUser, LocalGithubUser } from 'types';
+import { LocalGithubUser } from 'types';
 
 export const defaultUser: LocalGithubUser = {
   login: 'nastoika',
@@ -9,7 +9,7 @@ export const defaultUser: LocalGithubUser = {
   blog: '',
   location: 'Minsk',
   bio: 'Frontend developer',
-  twitter: 'null',
+  twitter: 'nasoika7623',
   repos: 6,
   followers: 23,
   following: 3,
