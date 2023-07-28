@@ -4,7 +4,7 @@ export const defaultUser: LocalGithubUser = {
   login: 'nastoika',
   id: 70635803,
   avatar: 'https://avatars.githubusercontent.com/u/70635803?v=4',
-  name: 'Nastya',
+  name: 'Anastasia Gorlachyova',
   company: 'EPAM',
   blog: '',
   location: 'Minsk',
